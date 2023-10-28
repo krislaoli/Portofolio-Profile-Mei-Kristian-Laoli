@@ -33,7 +33,7 @@ function Footer() {
                 to="MyPortfolio"
                 className="text-md"
               >
-                Portfolio
+                Project
               </Link>
             </li>
             <li>
