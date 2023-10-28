@@ -4,13 +4,13 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Dapat membuat web responsive & memahami Html, Css, Javascript, Bootstrap, Node Js, React Js, Handlebars, Typescript"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Familiar Dengan Javascript, PosgreSql"
     }
   ],
   "portfolio": [
