@@ -81,7 +81,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/crislaoli14/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +102,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/kris.laoli/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -125,7 +125,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://twitter.com/Krislaoli_"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/kris05"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

@@ -9,15 +9,10 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+          Bachelor of Informatika from Universitas Nasional Familiar in Html, Css, Javascript, Bootstrap, Node Js, PostgreSql and Ms office tools | Looking for job
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            saya juga mengikuti Bootcamp yaitu di Dumbways
           </p>
         </div>
       </div>
